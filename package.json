@@ -1,0 +1,21 @@
+{
+  "name": "update-session",
+  "version": "0.0.0",
+  "description": "update-session ==============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amazo/update-session.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "d8231f963eb90c8f14f1b66802ba820628a579be",
+  "dependencies": {
+    "superagent": "~0.14.7",
+    "async": "~0.2.9"
+  }
+}
